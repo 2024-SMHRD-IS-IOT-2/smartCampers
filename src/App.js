@@ -1,4 +1,5 @@
 import './App.css';
+import Time from './components/Time';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <h2>팀원 두번째 커밋!</h2>
 
       <h3>팀원 네번째 커밋!</h3>
+      <Time/>
     </div>
   );
 }
